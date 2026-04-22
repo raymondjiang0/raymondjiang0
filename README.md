@@ -1,6 +1,13 @@
-## Hi there 👋
+## Hi!
+I'm a junior at Harvard College studying Applied Math + Econ and Russian.
+
+I'm on a gap year working at the Special Competitive Studies Project.
+
+
 
 <!--
+I have various hobbies. Ask me about my faith in Jesus Christ, figure skating, Armenia, ultramarathon running, piano, Israel, etc.
+
 **raymondjiang0/raymondjiang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
