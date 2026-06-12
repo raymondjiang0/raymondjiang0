@@ -1,9 +1,6 @@
 ## Hi!
 I'm a junior at Harvard College studying Applied Math + Econ and Russian.
 
-I'm on a gap year working at the Special Competitive Studies Project.
-
-
 
 <!--
 I have various hobbies. Ask me about my faith in Jesus Christ, figure skating, Armenia, ultramarathon running, piano, Israel, etc.
